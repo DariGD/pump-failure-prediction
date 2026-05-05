@@ -1,7 +1,8 @@
+.env
+__pycache__/
+*.pyc
 models/*.pkl
-models/*.joblib
 data/*.csv
-!data/.gitkeep
 
 .vscode/
 .idea/
