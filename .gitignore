@@ -12,3 +12,4 @@ data/*.csv
 
 *.tmp
 *.bak.env
+.env
