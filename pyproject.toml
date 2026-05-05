@@ -1,0 +1,25 @@
+[tool.black]
+line-length = 100
+target-version = ['py310']
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4", "SIM"]
+ignore = [
+    "N806",
+    "E501",
+    "B904",
+]
+
+[tool.ruff.isort]
+lines-after-imports = 2
+known-first-party = ["ml_service", "dashboard"]
+
+[tool.mypy]
+python_version = "3.10"
+ignore_missing_imports = true
+warn_return_any = true
+warn_unused_configs = true

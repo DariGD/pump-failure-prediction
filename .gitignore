@@ -1,0 +1,14 @@
+models/*.pkl
+models/*.joblib
+data/*.csv
+!data/.gitkeep
+
+.vscode/
+.idea/
+.DS_Store
+
+#.env
+.env.local
+
+*.tmp
+*.bak

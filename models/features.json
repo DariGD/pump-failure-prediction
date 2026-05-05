@@ -1,0 +1,12 @@
+[
+  "Temperature",
+  "Vibration",
+  "Pressure",
+  "Flow_Rate",
+  "RPM",
+  "Operational_Hours",
+  "hours_norm",
+  "temp_pressure",
+  "vibration_rpm",
+  "flow_temp"
+]
