@@ -11,4 +11,4 @@ data/*.csv
 .env.local
 
 *.tmp
-*.bak
+*.bak.env
