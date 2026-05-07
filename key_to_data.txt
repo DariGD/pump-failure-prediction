@@ -1,3 +1,0 @@
-Для теста сервиса используйте ключи ниже для достпуа к данным
-Идентификатор ключа YCAJEgHRlalFHWc9-pFqpJANE
-Ваш секретный ключ YCNCsTAB_8d08lSXsnSkRn9nViK-x7Jqwu14x1Ck
