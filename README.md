@@ -137,7 +137,7 @@ source venv/bin/activate  # Linux / macOS
 pre-commit run -a
 ```
 
-6. Поднять сервис:
+4. Поднять сервис:
 
 ```
 docker-compose up --build
