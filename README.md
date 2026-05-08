@@ -116,7 +116,7 @@ best_xgb = xgb.XGBClassifier(
 
 ### Setup
 
-1. Склонировать репозиторий:
+1. Склонировать репозиторий (main branch):
 
 ```
 git clone <ссылка на репозиторий>
@@ -148,3 +148,8 @@ docker-compose up --build
 API документация http://localhost:8000/docs
 
 Веб-дашборд http://localhost:8501
+
+### Дополнительная информация
+
+В ветке experiments в корне можно найти ноутбук с результатами всех экспериментов.
+
